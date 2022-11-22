@@ -1,0 +1,12 @@
+System.out.println("Ingresa el primer numero 1: ");
+        double n1= sc.nextDouble();
+        System.out.println("Ingresa el primer numero 2: ");
+        double n2= sc.nextDouble();
+        double suma=n1+n2;
+        double resta=n2-n1;
+        double multiplicacion=n2*n1;
+        double division=n2/n1;
+        System.out.println("La suma es: "+suma);
+        System.out.println("La resta es: "+resta);
+        System.out.println("La multiplicacion es: "+multiplicacion);
+        System.out.println("La division es: "+division);
